@@ -7,8 +7,8 @@
     flex-direction: column;
     background-color:black;
     color:white">
-    <h1>SHOBHIT AGARWAL</h1>
-    <h3>MEVN Stack and Android Developer</h3>
+    <h1 style="text-align: center;">SHOBHIT AGARWAL</h1>
+    <h3 style="text-align: center;">MEVN Stack and Android Developer</h3>
     </div>
     <nav class="navbar navbar-default">
       <div class="container-fluid">
@@ -18,6 +18,7 @@
           <li v-on:click="setActive(2)" :class="{ active:experience }"><router-link to="/experience">Experience</router-link></li>
           <li v-on:click="setActive(3)" :class="{active:skills}"><router-link to="/skills">Skills</router-link></li>
           <li v-on:click="setActive(4)" :class="{active:project}"><router-link to="/project">Projects</router-link></li>
+          <li><a href="https://docs.google.com/document/d/1gEmg5Ez_AIDROoLPgTvym4qFKsqtyq2nhj-qF1peHBU/edit?usp=sharing">CV</a></li>
         </ul>
       </div>
     </nav>

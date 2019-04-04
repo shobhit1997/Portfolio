@@ -5,8 +5,8 @@
 <div class="col-lg-3 col-sm-12 left">
 <img src="../assets/shobhit.png">
 </div>
-<div class="col-lg-9 col-sm-12 right">
-<p class="lead">I am a 3rd year undergraduate student.I am current pursuing my B.Tech in CSE branch from JSS Academy of Technical Education Noida.I am a tech enthusiast and love working on lastest technology.I work on MEVN Stalk(MongoDB,Express,Vue.js,Node.js) and Android App Development.I have a handfull of experience on deploying apps on severs both cloud and local.I have experienceo on AWS and GCE.I have explored docker as well.I keep looking for oppurtunities to learn and develop new skills.I believe in project based learning.</p>
+<div class="col-lg-9 col-sm-12 right" style="margin-top:12px;">
+<p class="lead">I am a 3rd-year undergraduate student. I am currently pursuing my B.Tech in CSE branch from JSS Academy of Technical Education Noida. I am a tech enthusiast and love working on the latest technology. I work on MEVN Stack(MongoDB,Express,Vue.js,Node.js) and Android App Development. I have a handful of experience on deploying apps on servers both cloud and local. I have experience on AWS and GCE. I have explored docker as well. I keep looking for opportunities to learn and develop new skills. I believe in project-based learning.</p>
 </div>
 </div>
 </section>
