@@ -8,7 +8,7 @@
     background-color:black;
     color:white">
     <h1 style="text-align: center;">SHOBHIT AGARWAL</h1>
-    <h3 style="text-align: center;">MEVN Stack and Android Developer</h3>
+    <h3 style="text-align: center;">Backend and Cloud Engineer</h3>
     </div>
     <nav class="navbar navbar-default">
       <div class="container-fluid">
@@ -18,7 +18,9 @@
           <li v-on:click="setActive(2)" :class="{ active:experience }"><router-link to="/experience">Experience</router-link></li>
           <li v-on:click="setActive(3)" :class="{active:skills}"><router-link to="/skills">Skills</router-link></li>
           <li v-on:click="setActive(4)" :class="{active:project}"><router-link to="/project">Projects</router-link></li>
-          <li><a href="https://docs.google.com/document/d/1gEmg5Ez_AIDROoLPgTvym4qFKsqtyq2nhj-qF1peHBU/edit?usp=sharing">CV</a></li>
+          <!-- <li><a href="https://docs.google.com/document/d/1gEmg5Ez_AIDROoLPgTvym4qFKsqtyq2nhj-qF1peHBU/edit?usp=sharing">CV</a></li> -->
+          <li><a href="/static/CV_Shobhit Agarwal.pdf" target="_blank">CV</a></li>
+          <li><a href="/static/Resume.pdf" target="_blank">Resume</a></li>
         </ul>
       </div>
     </nav>
@@ -43,62 +45,61 @@
 
 <script>
 export default {
-  name: 'App',
-  data () {
+  name: "App",
+  data() {
     return {
       about: true,
       education: false,
       experience: false,
       skills: false,
       project: false
-    }
+    };
   },
   methods: {
-    setActive (i) {
+    setActive(i) {
       if (i === 0) {
-        this.about = true
-        this.education = false
-        this.experience = false
-        this.skills = false
-        this.project = false
+        this.about = true;
+        this.education = false;
+        this.experience = false;
+        this.skills = false;
+        this.project = false;
       } else if (i === 1) {
-        this.about = false
-        this.education = true
-        this.experience = false
-        this.skills = false
-        this.project = false
+        this.about = false;
+        this.education = true;
+        this.experience = false;
+        this.skills = false;
+        this.project = false;
       } else if (i === 2) {
-        this.about = false
-        this.education = false
-        this.experience = true
-        this.skills = false
-        this.project = false
+        this.about = false;
+        this.education = false;
+        this.experience = true;
+        this.skills = false;
+        this.project = false;
       } else if (i === 3) {
-        this.about = false
-        this.education = false
-        this.experience = false
-        this.skills = true
-        this.project = false
+        this.about = false;
+        this.education = false;
+        this.experience = false;
+        this.skills = true;
+        this.project = false;
       } else if (i === 4) {
-        this.about = false
-        this.education = false
-        this.experience = false
-        this.skills = false
-        this.project = true
+        this.about = false;
+        this.education = false;
+        this.experience = false;
+        this.skills = false;
+        this.project = true;
       }
     }
   },
-  mounted () {
-    if (window.location.pathname === '/project') {
-      this.setActive(4)
-    } else if (window.location.pathname === '/skills') {
-      this.setActive(3)
-    } else if (window.location.pathname === '/education') {
-      this.setActive(1)
-    } else if (window.location.pathname === '/experience') {
-      this.setActive(2)
+  mounted() {
+    if (window.location.pathname === "/project") {
+      this.setActive(4);
+    } else if (window.location.pathname === "/skills") {
+      this.setActive(3);
+    } else if (window.location.pathname === "/education") {
+      this.setActive(1);
+    } else if (window.location.pathname === "/experience") {
+      this.setActive(2);
     }
   }
-
-}
+};
 </script>
