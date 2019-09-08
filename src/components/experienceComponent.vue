@@ -5,7 +5,7 @@
 				<div>
 					<h3><a href="https://www.gradeup.co/">GradeUp, Noida</a></h3>
 					<hr>
-					<h4><b>Backend Intern (June,2019-Present)</b></h4>
+					<h4><b>Backend Intern (June,2019-September,19)</b></h4>
 					<h4>Intern</h4>
 					<p>Writing Api's in Node.js and Resolvers in GraphQL</p>
 				</div>

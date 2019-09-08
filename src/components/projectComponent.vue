@@ -30,7 +30,7 @@
 			</li>
 			<li style="padding-bottom:12px;">
 				<div>
-					<h3><a href="http://cform.surge.sh">Cform</a></h3>
+					<h3><a href="http://register.hackncs.com/form/Yib">Cform</a></h3>
 					<hr>
 					<h4><b>Node.js, Vue.js, MongoDB, Express.js, AWS EC2, PM2</b></h4>
 					<p>It is a platform for converting boring forms into interactive conversational forms.</p>
@@ -75,7 +75,7 @@
 			</li>
 			<li style="padding-bottom:12px;">
 				<div>
-					<h3><a href="#">Infoconnect App</a></h3>
+					<h3><a href="https://play.google.com/store/apps/details?id=com.hackncs.click">Infoconnect App</a></h3>
 					<hr>
 					<h4><b>Android App</b></h4>
 					<p>An android app for the <a href="http://210.212.85.155/">information portal</a> of the college with features like login/signup, notice creation and push notifications.</p>
