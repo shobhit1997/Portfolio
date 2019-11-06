@@ -23,7 +23,7 @@
 						<dt>RestFul Web Services</dt>
 						<dd>Intermediate</dd>
 						<dt>GraphQL</dt>
-						<dd>Beginner</dd>
+						<dd>Intermediate</dd>
 					</dl>
 				</div>
 			</li>

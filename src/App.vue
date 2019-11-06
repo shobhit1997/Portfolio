@@ -19,7 +19,7 @@
           <li v-on:click="setActive(3)" :class="{active:skills}"><router-link to="/skills">Skills</router-link></li>
           <li v-on:click="setActive(4)" :class="{active:project}"><router-link to="/project">Projects</router-link></li>
           <!-- <li><a href="https://docs.google.com/document/d/1gEmg5Ez_AIDROoLPgTvym4qFKsqtyq2nhj-qF1peHBU/edit?usp=sharing">CV</a></li> -->
-          <li><a href="/static/CV_Shobhit Agarwal.pdf" target="_blank">CV</a></li>
+          <!-- <li><a href="/static/CV_Shobhit Agarwal.pdf" target="_blank">CV</a></li> -->
           <li><a href="/static/Resume.pdf" target="_blank">Resume</a></li>
         </ul>
       </div>
