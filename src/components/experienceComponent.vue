@@ -7,16 +7,25 @@
 					<hr>
 					<h4><b>Backend Intern (June,2019-September,19)</b></h4>
 					<h4>Intern</h4>
-					<p>Writing Api's in Node.js and Resolvers in GraphQL</p>
+					<ul>
+						<li>Building API’s on Node.js for Ed-Tech product</li>
+						<li>Writing Resolvers on GraphQL</li>
+						<li>Working on Elastic Search, Python, Go</li>
+						<li>Agile Software Development Approach</li>
+					</ul>
 				</div>
 			</li>
 			<li>
 				<div>
 					<h3><a href="https://www.lecupido.com/">Cupido (Startup), Bangalore</a></h3>
 					<hr>
-					<h4><b>Rest Api development on Node.js (April,2019-May,19)</b></h4>
+					<h4><b>Backend Intern (April,2019-May,19)</b></h4>
 					<h4>Intern</h4>
-					<p>Developed rest API for a social networking ecommerce app with node.js,express,mongodb and redis.</p>
+					<ul>
+						<li>Building API’s on Node.js for E-Commerce Product</li>
+						<li>Converting business logic to code</li>
+						<li>Deployment to AWS EC2</li>
+					</ul>
 				</div>
 			</li>
 			<li>
@@ -25,7 +34,11 @@
 					<hr>
 					<h4><b>Rest Api development on Node.js (June,2018-December,18)</b></h4>
 					<h4>Intern</h4>
-					<p>Developed rest API for a social networking app with node.js,express,mongodb and redis.</p>
+					<ul>
+						<li>Building API’s on Node.js for web and mobile apps for Social Networking platform</li>
+						<li>Solving day to day bugs on the live website</li>
+						<li>Agile Software Development Approach</li>
+					</ul>
 				</div>
 			</li>
 			<li>
