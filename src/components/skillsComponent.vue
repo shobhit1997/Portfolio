@@ -6,7 +6,7 @@
 					<h3>Languages</h3>
 					<dl>
 						<dt>JAVA</dt>
-						<dd>Expert</dd>
+						<dd>Intermediate</dd>
 						<dt>C</dt>
 						<dd>Intermediate</dd>
 						<dt>Python</dt>
