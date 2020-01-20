@@ -25,6 +25,7 @@ cd dist
 cp index.html 404.html
 cp index.html 200.html
 echo "shobhitagarwal.me" >> CNAME
+git init
 git add .
 git commit -m"update"
 git push -f git@github.com:shobhit1997/shobhit1997.github.io.git master
