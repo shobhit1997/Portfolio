@@ -98,10 +98,8 @@
 				<div>
 					<h3>Android</h3>
 					<dl>
-						<dt>Advance Java</dt>
-						<dd>Expert</dd>
 						<dt>XML</dt>
-						<dd>Expert</dd>
+						<dd>ntermediate</dd>
 						<dt>Firebase</dt>
 						<dd>Intermediate</dd>
 						<dt>Firebase Cloud Messaging</dt>
