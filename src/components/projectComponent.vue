@@ -31,6 +31,15 @@
 			</li>
 			<li style="padding-bottom:12px;">
 				<div>
+					<h3><a href="#">JSS Cricket App</a></h3>
+					<hr>
+					<h4><b>Ruby on Rails, PostgreSQL, Heroku</b></h4>
+					<p>An app to monitor the performance of JSS Cricket team and it’s players</p>
+					<p><a href="https://github.com/shobhit1997/jss-cricket-app">Github</a></p>
+				</div>
+			</li>
+			<li style="padding-bottom:12px;">
+				<div>
 					<h3><a href="http://oauth.shobhitagarwal.me/">Infoconnect OAuth</a></h3>
 					<hr>
 					<h4><b>Node.js, MongoDB, HTML, CSS, JSS</b></h4>

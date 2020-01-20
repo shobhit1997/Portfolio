@@ -10,6 +10,8 @@
 						<dt>C</dt>
 						<dd>Intermediate</dd>
 						<dt>Python</dt>
+						<dd>Intermediate</dd>
+						<dt>Ruby</dt>
 						<dd>Beginner</dd>
 					</dl>
 				</div>
@@ -35,6 +37,8 @@
 						<dd>Intermediate</dd>
 						<dt>Vue.js</dt>
 						<dd>Intermediate</dd>
+						<dt>Ruby on Rails</dt>
+						<dd>Beginner</dd>
 					</dl>
 				</div>
 			</li>
@@ -56,13 +60,13 @@
 					<h3>Databases</h3>
 					<dl>
 						<dt>MongoDb</dt>
-						<dd>Expert</dd>
-						<dt>Firebase Realtime Database</dt>
-						<dd>Expert</dd>
+						<dd>Intermediate</dd>
 						<dt>MySQL</dt>
 						<dd>Intermediate</dd>
 						<dt>Postgresql</dt>
 						<dd>Intermediate</dd>
+						<dt>Firebase Realtime Database</dt>
+						<dd>Expert</dd>
 					</dl>
 				</div>
 			</li>
