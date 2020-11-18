@@ -24,7 +24,7 @@ cd dist
 
 cp index.html 404.html
 cp index.html 200.html
-echo "shobhitagarwal.me" >> CNAME
+# echo "shobhitagarwal.me" >> CNAME
 git init
 git add .
 git commit -m"update"

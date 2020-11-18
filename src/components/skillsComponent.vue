@@ -91,6 +91,8 @@
 						<dd>Intermediate</dd>
 						<dt>Docker</dt>
 						<dd>Intermediate</dd>
+						<dt>Kuberneetes</dt>
+						<dd>Intermediate</dd>
 					</dl>
 				</div>
 			</li>

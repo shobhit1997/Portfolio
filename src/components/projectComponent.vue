@@ -3,7 +3,7 @@
 		<ul style="list-style:none;margin:10px 0;">	
 			<li style="padding-bottom:12px;">
 				<div>
-					<h3><a href="http://ide.shobhitagarwal.me/">IDE</a></h3>
+					<h3><a href="http://ide.shoa-apps.live/">IDE</a></h3>
 					<hr>
 					<h4><b>Node.js, Express.js, HTML, CSS, JS, Docker, Python, EC2</b></h4>
 					<p>An Online IDE for running programs using docker and other node.js</p>
@@ -12,7 +12,7 @@
 			</li>
 			<li style="padding-bottom:12px;">
 				<div>
-					<h3><a href="http://ti.shobhitagarwal.me/">Technical Interview Portal</a></h3>
+					<h3><a href="http://ti.shoa-apps.live/">Technical Interview Portal</a></h3>
 					<hr>
 					<h4><b>Node.js,Express.js, HTML, CSS, JS, Docker, Python, EC2, Socket.io</b></h4>
 					<p>An Online platform for taking realtime programming interviews</p>
@@ -40,7 +40,7 @@
 			</li>
 			<li style="padding-bottom:12px;">
 				<div>
-					<h3><a href="http://oauth.shobhitagarwal.me/">Infoconnect OAuth</a></h3>
+					<h3><a href="http://oauth.shoa-apps.live/">Infoconnect OAuth</a></h3>
 					<hr>
 					<h4><b>Node.js, MongoDB, HTML, CSS, JSS</b></h4>
 					<p>An OAuth service of college registration portal for other college projects and portals. Visit the github page for more details. </p>

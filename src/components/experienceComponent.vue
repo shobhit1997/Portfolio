@@ -5,7 +5,19 @@
 				<div>
 					<h3><a href="https://www.softwareag.com/">SoftwareAG, Bangalore</a></h3>
 					<hr>
-					<h4><b>R&D Intern (January,2020-Present)</b></h4>
+					<h4><b>Software Engineer 1 (June,2020-Present)</b></h4>
+					<ul>
+						<li>Working on B2b on cloud platform</li>
+						<li>Docker and Kuberneetes Expertise</li>
+						<li>Working on Saas Platforms and Java.</li>
+					</ul>
+				</div>
+			</li>
+			<li>
+				<div>
+					<h3><a href="https://www.softwareag.com/">SoftwareAG, Bangalore</a></h3>
+					<hr>
+					<h4><b>R&D Intern (January,2020-June,2020)</b></h4>
 					<ul>
 						<li>Working on Integration Cloud and WebMethods.io</li>
 						<li>Building Connectors on Cloud Streams</li>
