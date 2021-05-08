@@ -6,9 +6,9 @@
 					<h3>B.Tech in Computer Science & Engineering </h3>
 					<hr>
 					<dl>
-						<dt>JSS Academy of Technical Education, Noida (2016-Present)</dt>
+						<dt>JSS Academy of Technical Education, Noida (2016-2020)</dt>
 						<dd><i>Affiliated to Abdul Kalam Technical University,Lukhnow</i></dd>
-						<dd>Percentage:85%(as per 3rd year)</dd>
+						<dd>CGPA:8.6</dd>
 					</dl>
 				</div>
 			</li>

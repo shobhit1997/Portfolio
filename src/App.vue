@@ -3,11 +3,12 @@
     <div style="display: flex;
     justify-content: center;
     align-items: center;
-    height: 20vh;
+    height: 25vh;
     flex-direction: column;
     background-color:black;
     color:white">
     <h1 style="text-align: center;">SHOBHIT AGARWAL</h1>
+    <h3 style="text-align: center;">Software Engineer 1 @SoftwareAG</h3>
     <h3 style="text-align: center;">Backend and Cloud Engineer</h3>
     </div>
     <nav class="navbar navbar-default">
@@ -18,6 +19,8 @@
           <li v-on:click="setActive(2)" :class="{ active:experience }"><router-link to="/experience">Experience</router-link></li>
           <li v-on:click="setActive(3)" :class="{active:skills}"><router-link to="/skills">Skills</router-link></li>
           <li v-on:click="setActive(4)" :class="{active:project}"><router-link to="/project">Projects</router-link></li>
+          <li v-on:click="setActive(5)" :class="{active:articles}"><router-link to="/articles">Articles</router-link></li>
+          <li v-on:click="setActive(6)" :class="{active:certificates}"><router-link to="/certificates">Certificates</router-link></li>
           <!-- <li><a href="https://docs.google.com/document/d/1gEmg5Ez_AIDROoLPgTvym4qFKsqtyq2nhj-qF1peHBU/edit?usp=sharing">CV</a></li> -->
           <!-- <li><a href="/static/CV_Shobhit Agarwal.pdf" target="_blank">CV</a></li> -->
           <li><a href="/static/Resume.pdf" target="_blank">Resume</a></li>
@@ -52,7 +55,9 @@ export default {
       education: false,
       experience: false,
       skills: false,
-      project: false
+      project: false,
+      articles: false,
+      certificates: false
     };
   },
   methods: {
@@ -63,30 +68,57 @@ export default {
         this.experience = false;
         this.skills = false;
         this.project = false;
+        this.articles = false;
+        this.certificates = false;
       } else if (i === 1) {
         this.about = false;
         this.education = true;
         this.experience = false;
         this.skills = false;
         this.project = false;
+        this.articles = false;
+        this.certificates = false;
       } else if (i === 2) {
         this.about = false;
         this.education = false;
         this.experience = true;
         this.skills = false;
         this.project = false;
+        this.articles = false;
+        this.certificates = false;
       } else if (i === 3) {
         this.about = false;
         this.education = false;
         this.experience = false;
         this.skills = true;
         this.project = false;
+        this.articles = false;
+        this.certificates = false;
       } else if (i === 4) {
         this.about = false;
         this.education = false;
         this.experience = false;
         this.skills = false;
         this.project = true;
+        this.articles = false;
+        this.certificates = false;
+      }else if (i === 5) {
+        this.about = false;
+        this.education = false;
+        this.experience = false;
+        this.skills = false;
+        this.project = false;
+        this.articles = true;
+        this.certificates = false;
+      }
+      else if (i === 6) {
+        this.about = false;
+        this.education = false;
+        this.experience = false;
+        this.skills = false;
+        this.project = false;
+        this.articles = false;
+        this.certificates = true;
       }
     }
   },
@@ -99,6 +131,10 @@ export default {
       this.setActive(1);
     } else if (window.location.pathname === "/experience") {
       this.setActive(2);
+    }else if (window.location.pathname === "/articles") {
+      this.setActive(5);
+    }else if (window.location.pathname === "/certificates") {
+      this.setActive(6);
     }
   }
 };

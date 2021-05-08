@@ -6,9 +6,16 @@
                     <img src="../assets/shobhit.png">
                 </div>
                 <div class="col-lg-9 col-sm-12 right" style="margin-top:12px;font-size: medium;">
-                    <p>I am a 4th-year undergraduate student. I am currently pursuing my B.Tech in CSE branch from the <b>JSS Academy of Technical Education</b>, Noida. I have a good academic record with an average of 84% overall till 3rd year. I am a tech enthusiast and love working on the latest technology. I work as a <b>Backend</b> and <b>Cloud Engineer</b> with expertise in <b>Node.js</b> and <b>AWS</b>. Apart from this I also work on the latest technologies like <b>GraphQL, Elastic Search, Docker</b> and have acquaintance with other cloud service providers like <b>GCP</b>. <br>
-                    I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.<br>
-                    Apart from my technical expertise I also have <b>projects and team management</b> skills. I am the CTC of <a href="http://www.hackncs.com" target="_blank">Nibble Computer Society</a> and representative of the CSE Department at JSSATE, Noida. Being a part of NCS, I not only learned how to develop an app but also learned how to work in a team and lead a project.
+                    <p>I am working as a <b>Software Engineer 1</b> at <b>SoftwareAG</b>, Bangalore. I work with the B2B Cloud Platform team. As a part of the team my role is to ensure high availability, fault tolerance, robustness, security, and resilience of the B2B cloud platform. 
+                    This role further extends to building features that maintain this.
+                    <br><br>
+                    Prior to that, I also have 5 months of internship experience with <b>SoftwareAG</b> with the Cloud Streams team and 3 months of internship experience with <b>GradeUp</b>. I have completed my graduation from <b>JSS Academy of Technical Education, Noida</b> with an overall CGPA of 8.6.
+                     <br><br>
+                     I work on various technologies including <b> Backend (Node.js, Java), Docker, Kubernetes, Cloud(AWS),</b> etc. 
+                     I enjoy working in an environment of growth and learning. 
+                     <br>
+                     I call myself a <b>language independent</b> software developer. I believe by understanding the basic framework of how development is done, how different pieces are connected, a developer can implement it in any language.
+                     Every programming language or technology has its own pros and cons. A developer needs to choose the best which fits in his design, not the one he is comfortable in.
                     </p>
                 </div>
             </div>

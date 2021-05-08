@@ -5,6 +5,8 @@ import Education from '@/components/educationComponent'
 import Experience from '@/components/experienceComponent'
 import Project from '@/components/projectComponent'
 import Skills from '@/components/skillsComponent'
+import Articles from '@/components/articlesComponent'
+import Certificates from '@/components/certificatesComponent'
 
 Vue.use(Router)
 
@@ -35,6 +37,16 @@ export default new Router({
     path: '/skills',
     name: 'Skills',
     component: Skills
+  },
+  {
+    path: '/articles',
+    name: 'Articles',
+    component: Articles
+  },
+  {
+    path: '/certificates',
+    name: 'Certificates',
+    component: Certificates
   }
   ]
 })
