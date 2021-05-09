@@ -3,7 +3,7 @@
     <div style="display: flex;
     justify-content: center;
     align-items: center;
-    height: 25vh;
+    height: 30vh;
     flex-direction: column;
     background-color:black;
     color:white">
