@@ -3,9 +3,21 @@
 		<ul style="list-style:none;margin:10px 0;">
 			<li>
 				<div>
+					<h3><a href="https://www.hackerrank.com/">Hackerrank Bangalore</a></h3>
+					<hr>
+					<h4><b>Software Development Engineer 2 (September,2021-Present)</b></h4>
+					<ul>
+						<li>Hackerrank Community Platform</li>
+						<li>ETL Pipelines</li>
+						<li>RoR</li>
+					</ul>
+				</div>
+			</li>
+			<li>
+				<div>
 					<h3><a href="https://www.softwareag.com/">SoftwareAG, Bangalore</a></h3>
 					<hr>
-					<h4><b>Software Engineer 1 (June,2020-Present)</b></h4>
+					<h4><b>Software Engineer 1 (June,2020-September,2021)</b></h4>
 					<ul>
 						<li>Working on B2b on cloud platform</li>
 						<li>Docker and Kuberneetes Expertise</li>

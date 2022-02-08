@@ -8,7 +8,7 @@
     background-color:black;
     color:white">
     <h1 style="text-align: center;">SHOBHIT AGARWAL</h1>
-    <h3 style="text-align: center;">Software Engineer 1 @SoftwareAG</h3>
+    <h3 style="text-align: center;">Software Development Engineer 2 @Hackerrank</h3>
     <h3 style="text-align: center;">Backend and Cloud Engineer</h3>
     </div>
     <nav class="navbar navbar-default">

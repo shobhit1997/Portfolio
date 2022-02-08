@@ -12,7 +12,7 @@
 						<dt>Python</dt>
 						<dd>Intermediate</dd>
 						<dt>Ruby</dt>
-						<dd>Beginner</dd>
+						<dd>Intermediate</dd>
 					</dl>
 				</div>
 			</li>
@@ -38,7 +38,7 @@
 						<dt>Vue.js</dt>
 						<dd>Intermediate</dd>
 						<dt>Ruby on Rails</dt>
-						<dd>Beginner</dd>
+						<dd>Intermediate</dd>
 					</dl>
 				</div>
 			</li>
